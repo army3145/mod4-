@@ -23,3 +23,19 @@ function speak(name) {
 // STEP 9: Expose the 'byeSpeaker' object to the global scope. Name it
 // 'byeSpeaker' on the global scope as well.
 // xxxx.xxxx = byeSpeaker;
+
+
+
+( function ( )  {
+	var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
+	    for (var i  = 0;   i  <  names.length;  i++)  {
+	   const  names  =  names[i].charAt(0).toLowerCase( );
+	           if (name  ===  'j')  {
+	         GoodBye.speak(names[i]);
+	
+	}  else  {
+		   Hello.speak(names[i]);
+		}
+}
+	console.log(hello {name.charAt(name));
+ }( ));

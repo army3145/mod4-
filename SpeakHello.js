@@ -14,7 +14,7 @@ var speakWord = "Hello";
 // helloSpeaker object instead of being a standalone function.
 // See Lecture 52, part 2
 helloSpeaker.speak = function speak(name) {
-   var names [];
+   var names = [];
   for(var i = 0; i < names.length;  i++) [
     console.log("GoodBye  "  +  names[i]);
     }

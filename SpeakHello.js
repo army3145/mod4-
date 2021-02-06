@@ -27,4 +27,4 @@ helloSpeaker.speak = function speak(name) {
 // (Note, Step 6 will be done in the SpeakGoodBye.js file.)
 //xxxx.xxx = helloSpeaker;
 window.helloSpeaker = helloSpeaker;
-     })()); 
+     })(); 
